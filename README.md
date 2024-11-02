@@ -18,6 +18,8 @@
 
 #### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+
 
 #### Backend & Databases
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
