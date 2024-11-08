@@ -26,6 +26,8 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![LangChain](https://img.shields.io/badge/-LangChain-FFDD00?style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
 
