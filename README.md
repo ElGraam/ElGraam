@@ -23,7 +23,6 @@
 
 #### Backend & Databases
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
