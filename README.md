@@ -14,7 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 
 #### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
